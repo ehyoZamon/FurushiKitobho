@@ -1,0 +1,149 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.2rem;
+  text-align: justify;
+  background-color: wheat;
+}
+
+title{
+  font-size: 8rem;
+}
+.subtitle{
+font-size: 4rem;
+}
+.str {
+  color: red;
+  width: auto;
+}
+
+.p {
+  text-align: justify;
+  font-weight: 600;
+}
+
+p {
+  text-align: justify;
+  font-weight: 900;
+  animation-duration: 3s;
+  margin-trim: 32%;
+}
+
+.glavne {
+  padding-top: 38px;
+  color: red;
+  text-align: center;
+}
+
+.photo {
+  width: 100%;
+  height: 761px;
+}
+
+img {
+  width: auto;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  height: 10px;
+}
+
+.photo_banner {
+  padding-right: 12px;
+  width: 1060px;
+  margin: 28px;
+  height: 290px;
+  
+}
+
+.link {
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+}
+
+input {
+  color: initial;
+  display: inline-block;
+  text-align: start;
+  background-color: white;
+  cursor: text;
+  font: 400 13.3333px Arial;
+  padding: 1px 0px;
+  border-width: 2px;
+  border-style: inset;
+  border-color: initial;
+}
+
+.probel {
+  margin: 30px;
+}
+
+button {
+  display: inline-block;
+}
+
+nav ul {
+  list-style: none;
+  background-color: #1e1e1e;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px auto;
+  overflow: hidden;
+  background-color: #4444;
+  color: red;
+  width: 680px;
+}
+
+li a {
+  float: left;
+  display: block;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  border-right: 2px solid red;
+  min-width: 90px;
+  min-height: 10px;
+}
+li a:hover {
+  animation: myGlowAnimation;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+a {
+  text-decoration: none;
+  color: #0f7afc;
+  border-bottom: 1px solid;
+  border-bottom-color: rgba(15, 122, 252, 0.446);
+}
+
+a:hover {
+  text-decoration: none;
+  border-bottom-color: rgba(208, 64, 0, 0.2);
+}
+
+.style-css {
+  margin: 10px;
+  padding: 1%;
+}
+.hm{
+  color: red;
+	font-size: 60px;
+	line-height: 50px;
+	float: left;
+	margin: 0 10px;
+}
+.xz{
+    color: blue;
+    background-color: wheat;
+  }
+.poyon_banner{
+background-color: #0f7afc;
+}
+ 
